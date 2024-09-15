@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar Varshney</h1>
-<h3 align="center">Full Stack Developer | React, Node.js, MySQL Expert | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | React, Node.js, MySQL | Building Scalable Web Applications</h3>
 
 - 🔭 I’m currently working on **Incubation Management System**
 
